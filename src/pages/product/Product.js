@@ -1,15 +1,15 @@
-import OnlineDripper1 from '../../styles/assests/online-drip.jpg';
-import FlatDripReel from '../../styles/assests/product2.jpg';
-import OnlineDripLateral from '../../styles/assests/product3.jpg';
-import PressureCompensatingDripper from '../../styles/assests/product1.jpg';
-import RMSprinkler from '../../styles/assests/rm-sprinkler.jpg';
-import RMMiniMicroSprinkler from '../../styles/assests/product4.jpg';
-import HDPERoll from '../../styles/assests/product5.jpg';
-import DiscFilters from '../../styles/assests/disc-filter.jpg';
-import SandFilters from '../../styles/assests/product6.jpg';
-import Injector from '../../styles/assests/product7.jpg';
-import Fertigation from '../../styles/assests/fertigation.jpg';
-import HydroFilter from '../../styles/assests/product8.jpg';
+import OnlineDripper1 from '../../styles/assests/online-drip.png';
+import FlatDripReel from '../../styles/assests/product2.png';
+import OnlineDripLateral from '../../styles/assests/product3.png';
+import PressureCompensatingDripper from '../../styles/assests/product1.png';
+import RMSprinkler from '../../styles/assests/rm-sprinkler.png';
+import RMMiniMicroSprinkler from '../../styles/assests/product4.png';
+import HDPERoll from '../../styles/assests/product5.png';
+import DiscFilters from '../../styles/assests/disc-filter.png';
+import SandFilters from '../../styles/assests/product6.png';
+import Injector from '../../styles/assests/product7.png';
+import Fertigation from '../../styles/assests/fertigation.png';
+import HydroFilter from '../../styles/assests/product8.png';
 
 const pageStyle = {
     padding: '40px 20px',
@@ -84,18 +84,14 @@ const imageWrapperStyle = {
 };
 
 const largeImgStyle = {
-    width: '250px',
-    height: '180px',
-    borderRadius: '15px',
-    boxShadow: '0 8px 25px rgba(0,0,0,0.1)',
-    transition: 'transform 0.3s ease'
+    width: '350px',
+    height: '270px',
+    transition: 'transform 0.1s ease'
 };
 
 const smallImgStyle = {
-    width: '120px',
-    height: '120px',
-    borderRadius: '10px',
-    boxShadow: '0 6px 20px rgba(0,0,0,0.1)',
+    width: '300px',
+    height: '300px',
     transition: 'transform 0.3s ease'
 };
 
